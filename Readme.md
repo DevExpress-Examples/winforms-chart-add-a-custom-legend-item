@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/CustomLegendItemSample/Form1.cs) (VB: [Form1.vb](./VB/CustomLegendItemSample/Form1.vb))**
+<!-- default file list end -->
 # How to: Add a custom item to a legend
 
 
