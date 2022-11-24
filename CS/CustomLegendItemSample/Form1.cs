@@ -4,8 +4,7 @@ using System;
 using System.IO;
 using System.Windows.Forms;
 
-namespace CustomLegendItemSample
-{
+namespace CustomLegendItemSample {
     public partial class Form1 : Form {
         public Form1() {
             InitializeComponent();
