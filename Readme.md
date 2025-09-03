@@ -12,9 +12,9 @@ This example demonstrates how to add a custom legend item to a legend.
 
 ![Custom Legend Item](/images/Chart.png)
 
-Create a [CustomLegendItem](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.CustomLegendItem?v=22.2) object and add it to the [Legend.CustomItems](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.LegendBase.CustomItems?v=22.2) collection. Use the following properties to configure the custom item:
+Create a [CustomLegendItem](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.CustomLegendItem) object and add it to the [Legend.CustomItems](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.LegendBase.CustomItems) collection. Use the following properties to configure the custom item:
 
-* [MarkerImage](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.CustomLegendItem.MarkerImage?v=22.2&p=netframework)
+* [MarkerImage](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.CustomLegendItem.MarkerImage)
 * [Text](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.CustomLegendItem.Text?v=22.2)
 
 ## Files to Review
