@@ -23,7 +23,7 @@ Create a [CustomLegendItem](https://docs.devexpress.com/CoreLibraries/DevExpress
 
 ## Documentation
 
-[Legend Items](https://docs.devexpress.com/WindowsForms/115949/controls-and-libraries/chart-control/legends/legend-items?v=22.2&p=netframework)
+[Legend Items](https://docs.devexpress.com/WindowsForms/115949/controls-and-libraries/chart-control/legends/legend-items)
 
 
 
@@ -34,4 +34,5 @@ Create a [CustomLegendItem](https://docs.devexpress.com/CoreLibraries/DevExpress
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
 
